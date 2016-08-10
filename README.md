@@ -12,7 +12,7 @@ $ npm install --save kodepos
 const kodepos = require('kodepos');
 
 // Get all cities
-.all()
+kodepos.all();
 
 // Get city from zip
 kodepos.get(10330);
