@@ -1,0 +1,32 @@
+{
+  "name": "kodepos",
+  "version": "0.0.1",
+  "description": "A list of zipcodes in Indonesia",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kristories/kodepos.git"
+  },
+  "keywords": [
+    "zip",
+    "zipcode",
+    "kode",
+    "kodepos",
+    "indonesia"
+  ],
+  "author": "Wahyu Kristianto <w.kristories@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kristories/kodepos/issues"
+  },
+  "homepage": "https://github.com/Kristories/kodepos"
+}
